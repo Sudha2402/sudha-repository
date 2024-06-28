@@ -1,8 +1,0 @@
-<resources>
-    <string name="app_name">Layout</string>
-    <string name="Sudha" translatable="false">Sudha</string>
-    <string name="Start" translatable="false">Start</string>
-    <string name="EnterData" translatable="false">Enter Data</string>
-    <string name="Submit" translatable="false">Submit</string>
-
-</resources>
