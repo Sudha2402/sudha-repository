@@ -6,3 +6,6 @@ I am very lagy
 I love myself 
 I don't want anyone's consideration
 I am fros
+
+
+editing in remote repository and trying to pull in different branch
